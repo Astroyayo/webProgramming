@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+body{
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
+}
+#px1{
+  font-size: 20px;
+}
+
+#em1{
+  font-size: 2em;
+}
+
+#ex1{
+  font-size: 5ex;
+}
+#rem1{
+  font-size: 2rem;
+}
+#in1{
+  font-size: 0.5in;
+}
+#cm1{
+  font-size: 0.5cm;
+}
+#pt1{
+  font-size: 17pt;
+}
+#pc1{
+  font-size: 2pc;
+}
