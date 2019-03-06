@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Roboto:500i');
+
+div #col1{
+  background-image: linear-gradient(to top, rgba(67, 124, 144,0.4), rgba(67, 124, 144,1));
+  font-family: 'Lato', sans-serif;
+  color: white;
+  font-style: italic;
+  padding-bottom: 400px;
+}
+div #col2{
+  background-image: linear-gradient(to top, rgba(134,187,216,0.4), rgba(134,187,216,1));
+  font-family: 'Lato', sans-serif;
+  color: white;
+  font-style: italic;
+  padding-bottom: 400px;
+}
+div #col3{
+  background-image: linear-gradient(to top, rgba(64,78,92,0.4), rgba(64,78,92,1));
+  font-family: 'Lato', sans-serif;
+  color: white;
+  font-style: italic;
+  padding-bottom: 400px;
+}
